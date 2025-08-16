@@ -1,7 +1,7 @@
 /* Ceiling Hero Section */
 .ceiling.hero-section {
   height: 70vh;
-  background: url("../public/images/herocei.jpg") center/cover no-repeat;
+  background: url("../images/herocei.jpg") center/cover no-repeat;
   background-attachment: fixed; /* optional */
   position: relative;
   display: flex;
